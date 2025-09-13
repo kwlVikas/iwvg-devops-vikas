@@ -126,6 +126,7 @@ Issues**) por cada búsqueda, con el test correspondiente (**3.5 ptos**).
 * Código limpio, bien formateado y ordenado. **Hasta -2 ptos**. 
 * Uso del ingles. **Hasta -1 pto**.
 
+vk
 
 ### :clap: Entraga de la práctica
 Indicar como texto en la subida la **URL de GitHub**
