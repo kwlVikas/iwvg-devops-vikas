@@ -55,7 +55,7 @@ jobs:
         run: >
           mvn -B sonar:sonar 
           -Dsonar.projectKey=kwlVikas_${{ env.ARTIFACT }}
-          -Dsonar.organization=kwlVikas 
+          -Dsonar.organization=kwlvikas 
           -Dsonar.host.url=https://sonarcloud.io 
           -Dsonar.token=${{ secrets.SONAR_TOKEN }}
         env:
