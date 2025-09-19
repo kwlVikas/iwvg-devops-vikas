@@ -28,10 +28,10 @@
 
     <developers>
         <developer>
-            <name>Jesus Bernal</name>
-            <id>J.Bernal</id>
-            <email>j.bernal@upm.es</email>
-            <organization>MIW UPM</organization>
+            <name>Vikas Kanswal</name>
+            <id>V.Kanswal</id>
+            <email>vk.kanswal@alumnos.upm.es</email>
+            <organization>kwlVikas</organization>
             <roles>
                 <role>Architect</role>
                 <role>Developer</role>
